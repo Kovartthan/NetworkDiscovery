@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetworkDiscovery</string>
+    <string name="scan">Scan</string>
+    <string name="publish">Publish</string>
+</resources>
